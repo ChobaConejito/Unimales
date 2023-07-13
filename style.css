@@ -1,0 +1,27 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background-image: url(fondo1.avif) ;
+}
+
+.header_div
+  {
+  background: rgb(229, 160, 233);
+  color: #ff00ff; 
+  }
+
+  .header_div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(210, 64, 255);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .uniboton{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight:bold;
+    letter-spacing: 3px;
+    background-color: #f36fdd;
+  }
